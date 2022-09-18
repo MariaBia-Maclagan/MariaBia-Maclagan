@@ -1,4 +1,4 @@
-<h2 align="center" >Hello, welcome to my projects 👋</h2>
+<h2 align="center" >Hello, welcome to my projects 👋 </h2>
 
 <h3 align="center" >My name is Maria Beatriz and I am a Full-Stack Developer and designer with a background in photography 📸.</h3>
 
