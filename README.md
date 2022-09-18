@@ -2,7 +2,7 @@
 
 ### My name is Maria Beatriz and I am a full-stack developer and designer with a background in photography.
 
-### I have a passion for creative arts, design and development. I'm constantly learning new things and challenging my own perspectives. I consider my communication, organisational skills and my ability to adapt as being particularly good. I am now looking for a creative and exciting new challenge.
+I have a passion for creative arts, design and development. I'm constantly learning new things and challenging my own perspectives. I consider my communication, organisational skills and my ability to adapt as being particularly good. I am now looking for a creative and exciting new challenge.
 
 # 🤝 Connect with me:
 <a href="https://www.linkedin.com/in/maria-beatriz-maclagan/" title="linkedin icons">![Linkedin](images/linkedin.png)</a>
@@ -13,10 +13,19 @@
 
 # 📚 Education:
 
-### Full Stack Web Development with <a href="https://codeop.tech/full-stack-development-bootcamp/?utm_adgroup={AdGroupName}&d=c&utm_source=google&utm_medium=cpc&utm_campaign=UK+ES_Gen_FSD-Courses_BMM&utm_term=&hsa_grp=135565713543&hsa_ad=599020294011&hsa_net=adwords&hsa_ver=3&hsa_src=g&hsa_acc=8515198578&hsa_mt=&hsa_kw=&hsa_cam=17298593907&hsa_tgt=dsa-1282494697662&gclid=CjwKCAjwg5uZBhATEiwAhhRLHmH5iIW34c1C-JQSTJrNRNLKtB210MIrgSgZTqBwfYtJnRtjcx4IrRoCpjcQAvD_BwE">CodeOp</a>
-### Python Bootcamp with <a href="https://www.btc.ac.uk/">Bridgwater and Taunton College</a>
-### Python and Apps with <a href="https://codefirstgirls.com/">Code First Girls</a>
-### Frontend Development with <a href="https://www.shecodes.io/">SheCodes</a> 
-### Bachelor's Degree in Photgraphy with <a href="https://www.sp.senac.br/graduacao#bacharelado">Senac University</a>
+- Full Stack Web Development with <a href="https://codeop.tech/full-stack-development-bootcamp/?utm_adgroup={AdGroupName}&d=c&utm_source=google&utm_medium=cpc&utm_campaign=UK+ES_Gen_FSD-Courses_BMM&utm_term=&hsa_grp=135565713543&hsa_ad=599020294011&hsa_net=adwords&hsa_ver=3&hsa_src=g&hsa_acc=8515198578&hsa_mt=&hsa_kw=&hsa_cam=17298593907&hsa_tgt=dsa-1282494697662&gclid=CjwKCAjwg5uZBhATEiwAhhRLHmH5iIW34c1C-JQSTJrNRNLKtB210MIrgSgZTqBwfYtJnRtjcx4IrRoCpjcQAvD_BwE">CodeOp</a>
+- Python Bootcamp with <a href="https://www.btc.ac.uk/">Bridgwater and Taunton College</a>
+- Python and Apps with <a href="https://codefirstgirls.com/">Code First Girls</a>
+- Frontend Development with <a href="https://www.shecodes.io/">SheCodes</a> 
+- Bachelor's Degree in Photgraphy with <a href="https://www.sp.senac.br/graduacao#bacharelado">Senac University</a>
 
 # 📐 Project Links:
+
+- Full Stack 
+ <a href="https://github.com/kanyedzhus/flora/tree/staging">Flora</a>
+ <a href="https://github.com/MariaBia-Maclagan/vegist-demo">Vegist</a>
+ <a href="https://github.com/MariaBia-Maclagan/scheduling-app">Scheduling App</a>
+
+- Frontend
+ <a href="https://heuristic-jepsen-28ee80.netlify.app/">Weather App</a>
+ <a href="https://eloquent-williams-271325.netlify.app/">Dictionary</a>
