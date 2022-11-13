@@ -5,7 +5,7 @@
 I have a passion for creative arts, design and development. I'm constantly learning new things and challenging my own perspectives. I consider my communication, organisational skills and my ability to adapt as being particularly good. I am now looking for a creative and exciting new challenge.
 
 - 🤓 I'm currently a mentee at <a href="http://www.structur3dpeople.co.uk/cajigo/" target="_blank">Cajigo</a> program
-- 🌱 I’m currently learning about Web 3.0, NFT and Blockchain 
+- 🌱 I’m currently attending DevNet skills Bootcamp from Cisco with Open University 
 
 # 🤝 Connect with me:
 <a href="https://www.linkedin.com/in/maria-beatriz-maclagan/" title="linkedin icons" target="_blank"><img src="images/linkedin.png" width="50px"/></a>
