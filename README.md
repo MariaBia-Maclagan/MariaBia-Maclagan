@@ -5,7 +5,7 @@
 I have a passion for creative arts, design and development. I'm constantly learning new things and challenging my own perspectives. I consider my communication, organisational skills and my ability to adapt as being particularly good. I am now looking for a creative and exciting new challenge.
 
 - 🤓 I'm currently a volunteer Social Media Designer at <a href="http://www.structur3dpeople.co.uk/cajigo/" target="_blank">Cajigo</a> program
-- 🌱 I also volunteer at <a href="https://www.scottishtecharmy.org/" target="_blank">Scottish</a> Tech Army as a Developer helping to explore GitHub Actions to be implemented in their charity projects.
+- 🌱 I also volunteer at <a href="https://www.scottishtecharmy.org/" target="_blank">Scottish Tech Army </a>as a Developer helping to explore GitHub Actions to be implemented in their charity projects.
 
 # 🤝 Connect with me:
 <a href="https://www.linkedin.com/in/maria-beatriz-maclagan/" title="linkedin icons" target="_blank"><img src="images/linkedin.png" width="50px"/></a>
