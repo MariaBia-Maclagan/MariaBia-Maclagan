@@ -16,7 +16,7 @@ I have a passion for creative arts, design and development. I'm constantly learn
 
 # 📚 Education:
 
-- DevNet Skills from Cisco with<a href="https://www.open.ac.uk/" target="_blank">Open University</a>
+- DevNet Skills from Cisco with <a href="https://www.open.ac.uk/" target="_blank">Open University</a>
 - Full Stack Web Development with <a href="https://codeop.tech/full-stack-development-bootcamp/?utm_adgroup={AdGroupName}&d=c&utm_source=google&utm_medium=cpc&utm_campaign=UK+ES_Gen_FSD-Courses_BMM&utm_term=&hsa_grp=135565713543&hsa_ad=599020294011&hsa_net=adwords&hsa_ver=3&hsa_src=g&hsa_acc=8515198578&hsa_mt=&hsa_kw=&hsa_cam=17298593907&hsa_tgt=dsa-1282494697662&gclid=CjwKCAjwg5uZBhATEiwAhhRLHmH5iIW34c1C-JQSTJrNRNLKtB210MIrgSgZTqBwfYtJnRtjcx4IrRoCpjcQAvD_BwE" target="_blank">CodeOp</a>
 - Python Bootcamp with <a href="https://www.btc.ac.uk/" target="_blank">Bridgwater and Taunton College</a>
 - Ux Design Certificate with <a href="https://www.coursera.org/professional-certificates/google-ux-design?utm_source=gg&utm_medium=sem&utm_campaign=15-GoogleUXDesign-ROW&utm_content=B2C&campaignid=12566638067&adgroupid=119528847117&device=c&keyword=ux%20designers&matchtype=b&network=g&devicemodel=&adpostion=&creativeid=507197228295&hide_mobile_promo&gclid=CjwKCAjwg5uZBhATEiwAhhRLHrpYXp2vK1OyLZ4SFp_DnDU3yLB_vhmg_VSr2QwJx-AbZI7EjvJ3BhoCsjEQAvD_BwE" target="_blank">Coursera</a>
